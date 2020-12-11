@@ -10,7 +10,7 @@
 ### TheWMarketplace is a start up company that aims to provide a marketplace platform that is specifically for gender fair and women owned businesses. I was responsible for conducting consumer base research and the current service provider market research to help the team understand the opportunities and competitions in the e-commerce industry. 
 ### Data process tools: Microsoft Excel
 ### Research reports I created:
-- Marketplace consumer base research: [presentation slides](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/The%20WMarketplace%20research%20project%201.pdf), [full report]()
+- Marketplace consumer base research: [presentation slides](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/The%20WMarketplace%20research%20project%201.pdf), [full report](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/WMarketplaceResearch1Phase2FullReport.pdf)
 - Service provider research
 
 ## Class project: Immigration Statistics Report
