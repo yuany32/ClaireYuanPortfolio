@@ -15,6 +15,8 @@
 
 ## Class project: Immigration Statistics Report
 ### Data process tools: R(dplyr, ggplot2, shiny)
-### project link: 
+### [project link](https://yen-michelle-to.shinyapps.io/project-app-yennhito/) 
+### Teammates: Michelle To, Jilly Tan, Mencius Chin
+
 
 
