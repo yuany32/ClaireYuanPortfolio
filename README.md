@@ -11,7 +11,7 @@
 ### Data process tools: Microsoft Excel
 ### Research reports I created:
 - Marketplace consumer base research: [presentation slides](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/The%20WMarketplace%20research%20project%201.pdf), [full report](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/WMarketplaceResearch1Phase2FullReport.pdf)
-- Service provider research
+- Service provider research: [presentation slides](https://github.com/yuany32/ClaireYuanPortfolio/blob/main/wmarketplace%20research%203.pdf)
 
 ## Class project: Immigration Statistics Report
 ### Data process tools: R(dplyr, ggplot2, shiny)
